@@ -55,4 +55,3 @@ gunicorn
 numpy
 flask
 Pillow
-PIL
