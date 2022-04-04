@@ -55,5 +55,4 @@ gunicorn
 numpy
 flask
 Pillow
-werkzeug==0.9.6
 PIL
